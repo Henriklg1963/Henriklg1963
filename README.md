@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hej Der👋
 
 <!--
 **Henriklg1963/Henriklg1963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
